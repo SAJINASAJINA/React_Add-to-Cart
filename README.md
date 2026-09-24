@@ -62,7 +62,7 @@ https://fakestoreapi.com/products
 
 The application is deployed on Netlify.
 
-Live Demo: YOUR_NETLIFY_URL
+Live Demo: https://sajina-add-to-cart.netlify.app/
 
 ## Author
 
